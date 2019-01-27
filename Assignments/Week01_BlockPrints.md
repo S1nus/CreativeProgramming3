@@ -2,13 +2,13 @@
 
 # BLOCK PRINTS
 
-To get started with the semester, we'll do a quick project to get you back into writing code and that will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels we'll use a thoroughly 21st-century tool: the laser-cutter.
+To get started with the semester, we'll do a quick project to get you back into writing code. It will give you the opportunity to try a (perhaps) new way of printing your work: wood block prints. Block printing dates back thousands of years, though instead of using chisels to carve the image we'll use a laser-cutter to go directly from a PDF to the printing block.
 
-You assignment is to make a black-and-white image (no grayscale) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
+Your assignment is to make a black-and-white image (no grayscale values) in Processing, cut a block using the laser-cutter, and print an edition of 10 prints. We'll exchange prints so everyone gets a full set from the class.
 
 ## DELIVERABLES  
 To turn in the project, please upload the following files to Canvas:  
-* Output image from your sketch  
+* Output PDF from your sketch  
 * Scan of one of your prints  
 
 Additionally, you'll need to produce 10 good quality prints, enough to share with the class.
