@@ -40,14 +40,21 @@ The basic structure:
       // drawing stuff here
       background(255);
   
-      // fill should be black (color(0)) or 
-      // white (color(255)) only, no grayscale!
+      // fill should be black if you want that area to be
+      // the paper or white if you want it to be printed in ink
+      fill(0);
   
       // stroke can be off (noStroke()) or blue (color(0,0,255))
       // to do a vector etching
+      stroke(0,0,255);
+
+      // if using stroke the thickness **MUST** be
+      // set to 0.072 otherwise you'll have weird issues
+      // with the lasercutter :(
+      strokeWeight(0.072);
   
       endRecord();
-    }
+}
 
 **LASER-CUTTER SETTINGS**  
 The workers in the Fab Lab should be able to help you, but to be sure you get a great-looking block, here are the settings you should use.
