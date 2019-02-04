@@ -10,12 +10,13 @@ Your assignment is to make a black-and-white image (no grayscale values) in Proc
 To turn in the project, please upload the following files to Canvas:  
 * Output PDF from your sketch  
 * Scan of one of your prints  
+* A proposal for your semester-long project (see description below)  
 
 Additionally, you'll need to produce 10 good quality prints, enough to share with the class.
 
 ## PROJECT TIMELINE  
 * **Jan 28:** Project assigned, create sketch, laser-etch your printing block  
-* **Feb 4:** Printing demo and printing in class, finish your edition as necessary, scan one of your prints  
+* **Feb 4:** Printing demo and printing in class, finish your edition as necessary, scan one of your prints; write a brief proposal for your semester-long project  
 * **Feb 11:** Project due, critique, exchange prints  
 
 ## CHALLENGE PROMPTS  
@@ -28,7 +29,7 @@ For next week, please create a sketch in Processing and etch your printing block
 ## FOR MONDAY, FEBRUARY 11  
 For next week, please finish the edition of your prints (see the `Resources` folder for a diagram to lay them out). You should have 10 good-quality prints: prints should look as close to the same as possible, with even inking and clean margins. When done, please scan one of the prints (there's a scanner in the back of the Lab) and upload to Canvas the scan and the PDF you used to cut your block.
 
-Please also be sure to have Chrome and a text editor (I suggest Sublime Text) installed on your computer for next week!
+**Additionally for CP3!** Please write a brief (about 1-page) proposal for the project you'd like to carry out for the rest of the semester. Your proposal should clearly explain what you're interested in, the way you think it might manifest, why this is interesting to you or an important topic to address. Please try to be as specific as possible, knowing your ideas may change as you work. Your proposal might describe a single artwork, a series of projects, or a more broad line of investigation.
 
 **SKETCH FORMAT**  
 * Black or white only, no grayscale!  
