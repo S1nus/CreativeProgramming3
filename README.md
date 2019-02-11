@@ -27,7 +27,7 @@ Please note this is subject to change – be sure to check GitHub and your email
 **Critique:** Group crit of `Block Print` projects, print exchange  
 **Feedback:** Small-group feedback on project ideas  
 **In-class:** Research your project idea and related work  
-**Homework:** Rapid artwork (start-to-finish in a week) around your project's idea  
+**Homework:** Rapid artwork (start-to-finish in a week) around your project's idea; research your topic and related artworks, technologies, etc    
 
 **FEB 18 – PRESIDENT'S DAY, NO CLASS (MEET THE NEXT DAY)**
 
