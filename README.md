@@ -26,12 +26,14 @@ Please note this is subject to change – be sure to check GitHub and your email
 **WEEK 3**  
 **Critique:** Group crit of `Block Print` projects, print exchange  
 **Feedback:** Small-group feedback on project ideas  
+**In-class:** Research your project idea and related work  
+**Homework:** Rapid artwork (start-to-finish in a week) around your project's idea  
 
 **FEB 18 – PRESIDENT'S DAY, NO CLASS (MEET THE NEXT DAY)**
 
 **WEEK 4 – NOTE! We meet on Tuesday this week!**  
-**Feedback:** Individual studio visits  
-**Homework:** Work ready for crit
+**Feedback:** Look at rapid artworks, individual studio visits  
+**Homework:** Work and research ready for first crit  
 
 **WEEK 5: CRIT 1**  
 **Critique:** Group crit of work in progress
@@ -66,7 +68,7 @@ Please note this is subject to change – be sure to check GitHub and your email
 **Homework:** Finish work for final critique  
 
 **WEEK 14: FINAL CRITIQUE**  
-**Critique:** Group crit of projects with Creative Programming 2
+**Critique:** Group crit of projects with Creative Programming 2  
 **Homework:** Record documentation of your project(s)
 
 **EXAM PERIOD: DOCUMENTATION DUE**  
