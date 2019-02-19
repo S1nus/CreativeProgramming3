@@ -32,17 +32,16 @@ Please note this is subject to change – be sure to check GitHub and your email
 **FEB 18 – PRESIDENT'S DAY, NO CLASS (MEET THE NEXT DAY)**
 
 **WEEK 4 – NOTE! We meet on Tuesday this week!**  
-**Feedback:** Look at rapid artworks, individual studio visits  
-**Homework:** Work and research ready for first crit  
+**Feedback:** Look at rapid artworks, individual studio visits
 
-**WEEK 5: CRIT 1**  
-**Critique:** Group crit of work in progress
+**WEEK 5**  
+**Feedback:** Individual studio visits 
 
 **WEEK 6**  
 **Feedback:** Individual studio visits  
 
-**WEEK 7**  
-**Feedback:** Individual studio visits  
+**WEEK 7:** CRIT 1**  
+**Critique:** Group crit of work in progress
 
 **MAR 18 – SPRING BREAK, NO CLASS**
 
