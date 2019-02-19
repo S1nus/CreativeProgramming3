@@ -40,7 +40,7 @@ Please note this is subject to change – be sure to check GitHub and your email
 **WEEK 6**  
 **Feedback:** Individual studio visits  
 
-**WEEK 7:** CRIT 1**  
+**WEEK 7: CRIT 1**  
 **Critique:** Group crit of work in progress
 
 **MAR 18 – SPRING BREAK, NO CLASS**
