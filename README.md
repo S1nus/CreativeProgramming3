@@ -70,6 +70,6 @@ Please note this is subject to change – be sure to check GitHub and your email
 **Critique:** Group crit of projects with Creative Programming 2  
 **Homework:** Record documentation of your project(s)
 
-**EXAM PERIOD: DOCUMENTATION DUE**  
-**Online:** Turn in documentation of your finished project(s)
+**EXAM PERIOD: MAY 17, 1PM**  
+**DOCUMENTATION DUE ONLINE:** Turn in documentation of your finished project(s)
 
