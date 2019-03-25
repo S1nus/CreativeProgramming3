@@ -46,30 +46,37 @@ Please note this is subject to change – be sure to check GitHub and your email
 **MAR 18 – SPRING BREAK, NO CLASS**
 
 **WEEK 8** - March 25th
+
 **Feedback:** Individual studio visits  
 **Homework:** Work ready for crit
 
 **WEEK 9: CRIT 2** - April 1st 
+
 **Critique:** Group crit of work in progress
 
 **WEEK 10** - April 8th 
+
 **Feedback:** Individual studio visits
 
 **WEEK 11** - April 15th 
+
 **Feedback:** Individual studio visits  
 **Homework:** Work ready for crit, installation plan  
 
 **WEEK 12: CRIT 3** - April 22nd 
+
 **Critique:** Group crit of work in progress and installation plans
 
 **WEEK 13: CLASS VISIT** - April 29th 
+
 **In-class:** Visit to Small Data Industries  
 **Homework:** Finish work for final critique  
 
 **WEEK 14: FINAL CRITIQUE** - May 6th 
+
 **Critique:** Group crit of projects with Creative Programming 2  
 **Homework:** Record documentation of your project(s)
 
 **EXAM PERIOD: MAY 17, 1PM**  
-**DOCUMENTATION DUE ONLINE:** Turn in documentation of your finished project(s)
 
+**DOCUMENTATION DUE ONLINE:** Turn in documentation of your finished project(s)
